@@ -27,6 +27,7 @@ body {
 .detalles p {
     margin-top: 2.5%;
     font-weight: 400;
+    font-size: 12px;
     text-align: center;
 }
 .section-button{
@@ -34,6 +35,7 @@ body {
     font-weight: 900;
     display: flex; 
     justify-content: center;
+    border-color: transparent;
 }
 .imagen { 
     background-image: url(./imagenes/Ellipse\ 1.jpg);
